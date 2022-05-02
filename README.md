@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-fd1d1d?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://moonnight0.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
+<div> 📚 Studying 📚 </div>
+
+<img src="https://img.shields.io/badge/C-FFCA28?style=flat-square&logo=C&logoColor=white"/>
