@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://moonnight0.tistory.com/"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+## moony 
+<a href="https://moonnight0.tistory.com/"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Tistory&logoColor=black"/></a>
