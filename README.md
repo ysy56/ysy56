@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 <div> 📚 Studying 📚 </div>
 
-<img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=C++&logoColor=white"/>
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
