@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <div> 📚 Studying 📚 </div>
 
-<img src="https://img.shields.io/badge/-FFCA28?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-FFCA28?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=C++&logoColor=white"/>
