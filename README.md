@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div> 😺 moony 😺 </div>
 <a href="https://moonnight0.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-458EFF?style=flat-square&logo=Instagram&logoColor=white"/></a>
-background: #833ab4;  /* fallback for old browsers */
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-background: #833ab4;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
