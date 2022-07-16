@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # 😺 moony 😺
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysy56&show_icons=true&theme=radical)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356)](https://solved.ac/ysy561356/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysy56&count_bg=%23ADD391&title_bg=%2339AA23&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
