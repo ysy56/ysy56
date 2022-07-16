@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # 😺 moony 😺
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysy56&count_bg=%23ADD391&title_bg=%2339AA23&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-fd1d1d?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -23,8 +25,6 @@ Here are some ideas to get you started:
 # Skills
 
 ### 📚 Studying 📚
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356">
 
 <div>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
