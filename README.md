@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### 📚 Studying 📚
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356)](https://solved.ac/ysy561356/)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356">
 
 <div>
