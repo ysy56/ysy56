@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <div> 📚 Studying 📚 </div>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
