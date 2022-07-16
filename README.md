@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-ysy561356](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
+/profile/ysy561356](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
 
 # 😺 moony 😺
 
