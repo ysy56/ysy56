@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac
+ysy561356](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
 
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356}">
-
-<div> 😺 moony 😺 </div>
+# 😺 moony 😺
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-fd1d1d?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://moonnight0.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
