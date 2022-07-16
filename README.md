@@ -12,7 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac/profile/ysy561356](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
+
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
+
+pip install -r requirements.txt
+python manage.py runserver # 서버 실행
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 # 😺 moony 😺
 
