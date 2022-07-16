@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 <div> 😺 moony 😺 </div>
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-fd1d1d?style=flat-square&logo=Instagram&logoColor=white"/></a>
