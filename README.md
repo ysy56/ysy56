@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac
-/profile/ysy561356](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
+[![Solved.ac/profile/ysy561356](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
 
 # 😺 moony 😺
 
