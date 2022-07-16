@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={ysy561356})](https://solved.ac/{ysy561356})
 
 <div> 😺 moony 😺 </div>
 
