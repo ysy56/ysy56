@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 현명한 개발자가 되고자 하는 백엔드 개발자 최영주입니다.  
 새로운 도전에 적극적으로 임하고, 끊임없이 학습하며 성장하는 것을 즐기고 있습니다.  
 <br>
-  ***
+  ---
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=false&width=800&height=70&lines=%EC%95%88%EB%85%95+%EC%84%B8%EA%B3%84!;%EB%82%98%EC%97%90%EA%B2%8C+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D+%EC%84%B8%EC%83%81%EC%9D%84+%EB%B3%B4%EC%97%AC%EC%A4%98%EC%84%9C+%EA%B3%A0%EB%A7%88%EC%9B%8C.)](https://git.io/typing-svg)
-  ***
+  
+  ---
 </div>
 
 <div align="center">
