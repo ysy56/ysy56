@@ -74,6 +74,7 @@ Here are some ideas to get you started:
   <br>
   <br>  
   <br>
+  ***
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysy561356)](https://solved.ac/ysy561356/)  
   <br>
